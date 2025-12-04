@@ -31,7 +31,9 @@ The frequency of oscillation is given by fo = 1 /  6 (2RC ).If an invertin
 RC PHASE SHIFT OSCILLATOR
 <img width="952" height="976" alt="image" src="https://github.com/user-attachments/assets/dd2b5792-8183-4214-9245-8373279357f6" />
 
+## CIRCUIT DIAGRAM
 
+![WhatsApp Image 2025-12-04 at 20 06 44_71d7c269](https://github.com/user-attachments/assets/c015b128-b734-4bc7-8d7f-4491e671f8b5)
 
 ---
 
@@ -39,6 +41,9 @@ RC PHASE SHIFT OSCILLATOR
 <img width="414" height="324" alt="image" src="https://github.com/user-attachments/assets/3389b740-b70e-4148-9bf9-e5319627260f" />
 
 ## DESIGN
+
+![WhatsApp Image 2025-12-04 at 20 07 44_8faf2bc1](https://github.com/user-attachments/assets/ce5f0ab1-f461-4ce9-b3fd-f38ac7714d51)
+
 
 ## RC PHASE SHIFT OSCILLATOR
 fo = 1 /  6 (2RC) Rf  29 R1
@@ -57,17 +62,12 @@ R1 =10 R = 33 k. Rf = 29R1=1MΩ
 ---
 ## TABULATION/OBSERVATION
 
+![WhatsApp Image 2025-12-04 at 20 07 00_fc3e1854](https://github.com/user-attachments/assets/543c44c9-b1f4-4771-bd81-9ec2ae3b1f3b)
 
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+![WhatsApp Image 2025-12-04 at 20 07 24_b07873cf](https://github.com/user-attachments/assets/88c7e0d4-07d0-4e91-b648-0ce34f0f77b7)
 
 ---
 ## THEORY
@@ -92,6 +92,9 @@ The frequency of oscillation is given by fo = 1/2πRC
 WIEN BRIDGE OSCILLATOR
 <img width="570" height="480" alt="image" src="https://github.com/user-attachments/assets/be71f26e-36ad-4677-8117-51362146cbbd" />
 
+## CIRCUIT DIAGRAM
+
+![WhatsApp Image 2025-12-04 at 20 08 09_0b7008d2](https://github.com/user-attachments/assets/1bf4d90c-bfeb-4d90-b776-cb4cb24d074a)
 
 ---
 ## MODEL GRAPH
@@ -100,6 +103,9 @@ WIEN BRIDGE OSCILLATOR
 ---
 
 ## DESIGN
+
+![WhatsApp Image 2025-12-04 at 20 09 25_a1799407](https://github.com/user-attachments/assets/f9ee7899-7030-490f-a5f3-9ad15dc06249)
+
 
 ## WIEN BRIDGE OSCILLATOR
 Select frequency f0 = 1KHz
@@ -124,17 +130,12 @@ Rf = 15K *2=30KΩ
 ---
 ## TABULATION/OBSERVATION
 
+![WhatsApp Image 2025-12-04 at 20 08 37_5c2aef3e](https://github.com/user-attachments/assets/9c90e0e9-0a29-46fa-a8a0-786b7da15371)
 
-| S.No | Amplitude (Volts) | Time Period (ms) | Frequency (Hz) |
-|------|--------------------|------------------|----------------|
-| 1    |                    |                  |                |
-| 2    |                    |                  |                |
-| 3    |                    |                  |                |
-| 4    |                    |                  |                |
-| 5    |
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
+![WhatsApp Image 2025-12-04 at 20 09 05_c922cffe](https://github.com/user-attachments/assets/cfa00dca-2230-4264-a1e0-ae0bd7b45553)
 
 ---
 ## RESULT:
